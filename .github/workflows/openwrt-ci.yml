@@ -1,4 +1,4 @@
-name: Build ImmortalWrt x86_64 with Plugins
+name: Build ImmortalWrt x86_64 with 常规
 
 on:
   workflow_dispatch:
